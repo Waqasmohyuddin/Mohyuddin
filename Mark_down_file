@@ -1,0 +1,215 @@
+# 1- Headings
+How to give headings in markdown files? 
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+
+
+# 2- Block of Words
+This is a normal text in markdown.
+
+> This is a block of special text.
+> 
+> This a a second line.
+
+# 3- Line breaks
+## First way of line break
+This is 40 days long course of Data Science with Python.\
+This is the second line.
+## Second way to line break by applying double enter press. 
+This is 40 days long course of Data Science with Python.
+
+This is the second line.
+
+# 4- Combine two things
+
+Block of words and heading
+
+> ## Heading 2
+
+# 5- Face of text
+
+Bold
+
+**Waqas**
+
+italic
+
+*Waqas*
+
+Bold and italic
+
+***Waqas***
+
+or you can use other way to change face of text
+
+_ double (underscore)
+
+__Waqas__
+
+For italic single undercore _
+
+_Waqas_
+
+# 6- Bullet points / Lists
+- Day-1
+- Day-2
+- Day-3
+- Day-4
+- Day-5
+  - Day-5a
+  - Day-5b
+- Day-6
+- Day-7
+
+> __using 0or+__
+# Numbered list
+1.  Day-1
+2.  Day-2
+3.  Day-3
+4.  Day-4
+1.  Day-5
+
+
+# 7- Line break or page break
+
+1st page
+---
+___
+***
+___
+***
+---
+2nd page
+
+# 8- Links and Hyperlinks
+
+<https://scholar.google.com.pk/>
+
+[The playlist of videos](https://www.youtube.com/)
+
+[ResearchGate]: https://www.researchgate.net/profile/Waqas-Mohy-Ud-Din
+
+The profile link is [here][ResearchGate]
+
+# 9- Images and Figures
+
+[Facebook]: https://www.facebook.com/?stype=lo&jlou=AfcN65Bu1jw0vAneHc5MXmK45Bd-Xg_yxETtAqQPx6exdJZgWMOnGszSq2pxwN5p0KaY_7XUXcjAgRIspOFuaKGlWJnGyv-g_u7KWiDdkEqIWg&smuh=37691&lh=Ac_DC7Zt45-L8jFw
+
+Porfile link [here][Facebook]
+
+# 10- Adding code in text and in block form
+
+To print a string use `print ("Waqas")`
+
+```
+x= 5+6
+y= 3-2
+z= x+y
+print(z)
+```
+> This code show color according to Python language syntax
+
+```python
+x= 5+6
+y= 3-2
+z= x+y
+print(z)
+```
+
+> This code show color according to R language syntax
+
+```R
+x= 5+6
+y= 3-2
+z= x+y
+print(z)
+```
+> This code show color according to html language syntax
+
+```html
+x= 5+6
+y= 3-2
+z= x+y
+print(z)
+```
+
+# 11- Adding tables
+
+| species | petal_length | sepal_length |
+|:-------: | :--------: | :--------: |
+| virginica |18.2 | 19.2 |
+| setosa |15.2 | 17.2 |
+| versicolor |20.1 | 18.3 |
+| setosa |15.1 | 16.2 |
+| virginica |21.3 | 14.5 |
+
+# 12- Contents
+
+[1- Headings](#1--headings)\
+[2- Block of Words](#2--block-of-words)\
+[3- Line Break](#3--line-breaks)\
+[4- Combine Two Things](#4--combine-two-things)\
+[5- Text Face](#5--face-of-text)\
+[6- Bullet Points](#6--bullet-points--lists)\
+[7- Line Breaks](#7--line-break-or-page-break)\
+[8- Links and Hyper Links](#8--links-and-hyperlinks)\
+[9- Images and Figures](#9--images-and-figures)\
+[10- Adding Code in Text and in Block form](#10--adding-code-in-text-and-in-block-form)\
+[11- Adding Tables](#11--adding-tables)
+
+
+
+# 13- Install extextions
+
+**Sample Text**
+
+**Bold**
+
+_italic_
+
+[link](https://www.youtube.com/)
+
+[Image](02.jpg)
+
+
+```
+Waqas
+```
+
+`Waqas Mohy Ud Din`
+
+
+* Waqas
+
+
+Column A | Column B | Column C
+---------|----------|---------
+ A1 | B1 | C1
+ A2 | B2 | C2
+ A3 | B3 | C3
+
+
+
+Column A | Column B | Column C
+---------|----------|---------
+ A1 | B1 | C1
+ A2 | B2 | C2
+ A3 | B3 | C3
+
+
+
+Column A | Column B | Column C
+---------|----------|---------
+ A1 | B1 | C1
+ A2 | B2 | C2
+ A3 | B3 | C3
+
+
+Column A | Column B | Column C
+---------|----------|---------
+ A1 | B1 | C1
+ A2 | B2 | C2
+ A3 | B3 | C3
